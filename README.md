@@ -1,10 +1,12 @@
-```python
-s = "Подсветка Python"
-print s
-```
+### Привет чуваки
 
-### HelloWorld
+'''mermaid
+graph LR;
+	untracked -- "git add" --> staged;
+	staged -- "???" --> tracked/commited;
 
-**Киборги**
-
-_Минутмэн_
+%% стрелка без текста для примера:
+	A --> B;
+	A-->B;
+	A--> B;
+'''
