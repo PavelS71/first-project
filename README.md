@@ -3,7 +3,7 @@ s = "Подсветка Python"
 print s
 ```
 
-###HelloWorld
+### HelloWorld
 
 **Киборги**
 
