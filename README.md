@@ -1,6 +1,6 @@
 ### Привет чуваки
 
-'''mermaid
+```mermaid
 graph LR;
 	untracked -- "git add" --> staged;
 	staged -- "???" --> tracked/commited;
@@ -9,4 +9,4 @@ graph LR;
 	A --> B;
 	A-->B;
 	A--> B;
-'''
+```
